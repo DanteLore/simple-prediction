@@ -1,5 +1,5 @@
-data/
+*/data/
 
-kaggle.json
+**/kaggle.json
 
-.DS_Store
+**/.DS_Store
